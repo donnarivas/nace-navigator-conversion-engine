@@ -1,0 +1,6 @@
+{
+  "name": "L-EAF Lab Outreach Tracker",
+  "description": "Keep track of outreach contacts for Situation A vs. Situation B, with automated follow-up reminders, custom status tags, and an integrated L-EAF Lab questionnaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
